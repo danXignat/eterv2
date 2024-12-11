@@ -1,0 +1,6 @@
+[INFO] explosion effect [2, 1] -> 1
+[INFO] explosion effect [1, 0] -> 0
+[INFO] explosion effect [1, 2] -> 0
+[INFO] explosion effect [3, 1] -> 0
+[INFO] explosion effect [1, 3] -> 0
+[INFO] explosion effect [3, 2] -> 0
